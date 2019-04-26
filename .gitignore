@@ -1,0 +1,13 @@
+# Intellij
+.idea/libraries
+.idea/sonarlint/
+.idea/sonarlint-state.xml
+.idea/workspace.xml
+.idea/modules/
+/out/
+
+# Gradle
+.gradle/
+/build
+
+
